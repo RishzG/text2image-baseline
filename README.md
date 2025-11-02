@@ -1,14 +1,6 @@
 
 # Milestone 1 — Text-to-Image (CLIP + Diffusers)
 
-## What to submit
-- **1-page proposal** (dataset + model + roles) — see `docs/project_proposal.pdf`
-- **Cleaned 1k–5k image–caption pairs** — e.g., `data/coco_small/pairs.csv`
-- **Environment set up** — PyTorch + Diffusers + CLIP
-- **Baseline notebook** — text→embedding pipeline (optionally text→image)
-- **Sample 5 prompt→image test runs**
-- **GitHub repo initialized**
-
 ## Quick Start
 ```bash
 # 1) Create and activate environment (example: conda)
