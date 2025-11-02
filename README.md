@@ -1,4 +1,3 @@
-
 # Milestone 1 — Text-to-Image (CLIP + Diffusers)
 
 ## Quick Start
@@ -19,10 +18,8 @@ jupyter lab baseline_text_to_embedding.ipynb
 ```
 
 ## Sample 5 Prompts (example)
-1. a cozy cabin in the woods during golden hour, 35mm photo, high detail
-2. a ceramic mug shaped like a cat, studio lighting, product shot
-3. a futuristic city skyline at night with neon lights, wide angle
-4. a plate of sushi arranged as a smiley face, overhead shot
-5. a bicycle parked beside a sunflower field, pastel color palette
-
-Put generated images under `outputs/` and commit to the repo.
+1. A small red bicycle parked next to a brick wall, late afternoon
+2. Two golden retriever puppies playing in tall grass
+3. A bustling street market at night with colourful neon lights
+4. A wooden dining table with a bowl of of oranges, natural light
+5. A surfer riding a gaint wave under a dramatic cloudy sky
