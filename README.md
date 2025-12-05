@@ -169,7 +169,7 @@ MIT License
 
 ---
 
-## 📚 References
+##  References
 
 1. Rombach, R., et al. "High-Resolution Image Synthesis with Latent Diffusion Models." CVPR 2022.
 2. Radford, A., et al. "Learning Transferable Visual Models From Natural Language Supervision." ICML 2021.
